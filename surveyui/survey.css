@@ -1,0 +1,31 @@
+#surveysection{
+    padding-top:50px;
+}
+
+.question{
+    font-size:18px;
+    text-shadow: none;
+}
+
+.choice{
+    font-size:18px;
+    text-shadow: none;
+}
+
+.reason{
+    font-size:18px;
+    text-shadow: none;
+}
+
+#responseSection{
+    margin:0px auto;
+    padding-left:100px;
+}
+.message{
+    font-size:18px;
+    text-shadow: none;
+}
+
+.whytext{
+    width:350px;
+}
